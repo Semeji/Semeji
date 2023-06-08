@@ -1,0 +1,69 @@
+
+h1{
+    font-family:  Helvetica;
+    font-size :100px;
+    font-weight:bold;
+    color: khaki;
+    text-align: center;
+    position: inherit;
+    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg);
+}
+.img{
+    width: auto;
+    height: 100px;
+
+}
+
+.brushes{
+    font-family:  Helvetica;
+    font-size: 32px;
+    font-weight:bold;
+    color: white;
+    background: mediumspringgreen;
+}
+.starting{
+    font-family:  Helvetica;
+    font-weight:bold;
+    color: blue;
+    text-align: right;
+    margin: -33px  125px 0px 0px;
+}
+.starting2{
+    font-family:  Helvetica;
+    font-weight:bold;
+    color: blue;
+    text-align: right;
+    margin: -34px  135px 0px 0px;
+}
+.starting3{
+    font-family:  Helvetica;
+    font-weight:bold;
+    color: blue;
+    position: relative;
+    left: 90px;
+    margin: -34px ;
+}
+.frames{
+    font-family:  Helvetica;
+    font: size 32px;
+    font-weight:bold;
+    color: white;
+    background: lightcoral;
+}
+
+.paint{
+    font-family:  Helvetica;
+    font: size 32px;
+    font-weight:bold;
+    color: white;
+    background:skyblue;
+}/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 8 juin 2023, 02:09:55
+    Author     : Ir.semeji
+*/
+
